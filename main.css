@@ -1,0 +1,31 @@
+html {
+    background: transparent;
+    background-image: url("pics/fs.png");
+}
+
+body {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #f4da14;
+    font-size: 60px;
+}
+
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.8);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: left;
+  padding: 10px 20px;
+}
+
+p {
+    text-align: left;
+    padding: 1px 30px
+}
